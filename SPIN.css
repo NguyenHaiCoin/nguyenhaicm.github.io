@@ -62,12 +62,12 @@
 
 .u-section-1 .u-text-5 {
   font-family: "Alfa Slab One";
-  margin: -28px 497px 0 593px;
+  margin: -29px 497px 0 593px;
 }
 
 .u-section-1 .u-text-6 {
   font-family: "Alfa Slab One";
-  margin: 33px 158px 0 626px;
+  margin: 34px 158px 0 626px;
 }
 
 .u-section-1 .u-text-7 {
@@ -126,7 +126,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1298px;
+    min-height: 1299px;
   }
 
   .u-section-1 .u-group-1 {
@@ -164,13 +164,13 @@
 
   .u-section-1 .u-text-4 {
     width: auto;
-    margin-top: -59px;
     margin-right: 851px;
     margin-left: 39px;
   }
 
   .u-section-1 .u-text-5 {
     width: auto;
+    margin-top: -31px;
     margin-right: 398px;
     margin-left: 492px;
   }
@@ -213,13 +213,13 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 30px;
-    margin-bottom: 51px;
+    margin-bottom: 52px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2201px;
+    min-height: 2207px;
   }
 
   .u-section-1 .u-group-1 {
@@ -254,12 +254,13 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: 835px;
+    margin-top: 833px;
     margin-right: 509px;
     margin-left: 161px;
   }
 
   .u-section-1 .u-text-6 {
+    margin-top: 36px;
     margin-right: 170px;
     margin-left: 195px;
   }
@@ -286,7 +287,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 34px;
-    margin-bottom: 35px;
+    margin-bottom: 38px;
   }
 }
 
@@ -332,25 +333,25 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: 830px;
+    margin-top: 829px;
     margin-right: 416px;
     margin-left: 74px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 28px;
+    margin-top: 29px;
     margin-right: 81px;
     margin-left: 104px;
   }
 
   .u-section-1 .u-text-7 {
-    margin-top: -79px;
+    margin-top: -78px;
     margin-right: 415px;
     margin-left: 75px;
   }
 
   .u-section-1 .u-text-8 {
-    margin-top: 54px;
+    margin-top: 53px;
     margin-right: 416px;
     margin-left: 74px;
   }
@@ -421,18 +422,19 @@
   }
 
   .u-section-1 .u-text-4 {
+    margin-top: -51px;
     margin-right: 270px;
     margin-left: 21px;
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: 610px;
+    margin-top: 611px;
     margin-right: 271px;
     margin-left: 20px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 61px;
+    margin-top: 59px;
     margin-right: 17px;
     margin-left: 49px;
   }
@@ -444,7 +446,7 @@
   }
 
   .u-section-1 .u-text-8 {
-    margin-top: 60px;
+    margin-top: 57px;
     margin-right: 271px;
     margin-left: 20px;
   }
@@ -455,7 +457,7 @@
   }
 
   .u-section-1 .u-group-2 {
-    margin-top: 25px;
+    margin-top: 28px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
